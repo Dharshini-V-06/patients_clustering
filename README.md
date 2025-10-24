@@ -17,6 +17,9 @@ By applying multiple clustering algorithms and comparing their performance, we a
 **File:** `patient_dataset.csv`
 **Shape:** (6000, 16)
 
+Dataset link: [Patients dataset](https://www.kaggle.com/datasets/arjunnsharma/patient-dataset-for-clustering-raw-data)
+
+
 | Column            | Description                   | Type            |
 | :---------------- | :---------------------------- | :-------------- |
 | age               | Age of patient                | Numeric         |
